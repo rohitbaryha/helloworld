@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitbaryha/helloworld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitbaryha/helloworld/issues"
+  },
+  "homepage": "https://github.com/rohitbaryha/helloworld#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
