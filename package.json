@@ -18,6 +18,13 @@
   },
   "homepage": "https://github.com/rohitbaryha/helloworld#readme",
   "devDependencies": {
-    "mocha": "^4.0.1"
+    "mocha": "^4.0.1",
+    "zombie": "^5.0.7"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "zombie": "^5.0.7"
   }
 }
